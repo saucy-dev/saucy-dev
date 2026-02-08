@@ -34,7 +34,7 @@ Learning • Building • Experimenting
 
 ---
 
-## ⚙️ CYBER TECH STACK
+## ⚙️TECH STACK
 
 ### 🕶️ XR SYSTEMS
 
@@ -118,7 +118,7 @@ Git • GitHub • VS Code • Visual Studio • Unity
 ## 🌐 CONNECT // UPLINKS
 
 <p align="center">
-<a href="https://www.instagram.com/ayushhh.wav">Instagram
+<a href="https://www.instagram.com/ayushhh.wav">
   <img src="https://skillicons.dev/icons?i=instagram" width="48" />
 </a>
 </p>
