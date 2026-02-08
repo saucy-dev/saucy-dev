@@ -32,23 +32,11 @@ Also known as **Saucy** online, I like exploring both creative and low-level sid
 ### 🕶️ AR / VR & Game Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,blender&perline=6" />
-</p>
-
-<p align="center">
-Unity · C# · XR Interaction Toolkit · AR Foundation · Google AR Core
-</p>
-
----
-
-### 🎮 Game Development Systems
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,&perline=6" />
 </p>
 
 <p align="center">
-3D Physics · Character Controllers · Animation Systems · Game UI
+Unity · C# · AR Foundation · Google AR Core · Animation Systems · Game UI
 </p>
 
 ---
@@ -80,7 +68,7 @@ Linux · Bash · System Services · Networking · Troubleshooting
 ### 🔧 Tools & Software
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&perline=5" />
 </p>
 
 <p align="center">
