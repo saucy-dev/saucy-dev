@@ -14,7 +14,6 @@ Building immersive realities • Exploring systems • Breaking & understanding 
 
 ---
 
-## 🧠 NEURAL TERMINAL
 
 ```bash
 > whoami
