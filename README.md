@@ -38,11 +38,9 @@ Learning • Building • Experimenting
 
 ### 🕶️ XR SYSTEMS
 
-Unity • OpenXR • AR Foundation • XR Interaction Toolkit • Meta XR • SteamVR
+Unity • OpenXR • AR Foundation • XR Interaction Toolkit
 
 * AR object placement apps
-* VR locomotion systems
-* XR simulations & testing
 
 ---
 
@@ -72,7 +70,6 @@ PHP • HTML • CSS • JavaScript • MySQL
 Ubuntu • Bash • Networking • Services • System Debugging
 
 ```bash
-sudo apt update && sudo apt upgrade
 # Saucy was here ⚡
 ```
 
@@ -121,9 +118,9 @@ Git • GitHub • VS Code • Visual Studio • Unity
 ## 🌐 CONNECT // UPLINKS
 
 <p align="center">
-<a href="https://linkedin.com/">LinkedIn</a> •
-<a href="mailto:yourmail@gmail.com">Email</a> •
-<a href="https://www.instagram.com/ayushhh.wav?igsh=MXI1ZmU2N3gzMGdicw==">Instagram</a>
+<a href="https://www.instagram.com/ayushhh.wav">Instagram
+  <img src="https://skillicons.dev/icons?i=instagram" width="48" />
+</a>
 </p>
 
 ---
