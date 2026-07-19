@@ -89,8 +89,3 @@ Artificial Intelligence
 
 ---
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1B5E20,70:4CAF50,100:8BC34A&height=120&section=footer"/>
-
-</p>
