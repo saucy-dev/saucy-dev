@@ -7,6 +7,7 @@
  (__  ) /_/ / /_/ / /__/ /_/ /_____/ /_/ /  __/ |/ /
 /____/\__,_/\__,_/\___/\__, /      \__,_/\___/|___/
                       /____/
+
 ```
 
 ### Backend Engineering • Cloud • Game Development • Artificial Intelligence
@@ -106,6 +107,6 @@ Artificial Intelligence
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 
 </p>
