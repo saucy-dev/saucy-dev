@@ -1,12 +1,12 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/saucybanner.svg" alt="SAUCY Banner" width="500" />
+  <img src="assets/svg.svg" alt="SAUCY Banner" width="500" />
 </p>
 
 ### Backend Engineering • Cloud • Game Development • Artificial Intelligence
 
-*Creating experiences, one system at a time.*
+*"Creating experiences, one system at a time."*
 
 </div>
 
