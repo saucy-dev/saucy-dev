@@ -95,16 +95,6 @@ Artificial Intelligence
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-</p>
-
----
-
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1B5E20,70:4CAF50,100:8BC34A&height=120&section=footer"/>
