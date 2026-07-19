@@ -1,147 +1,163 @@
-<h1 align="center">Hi, I'm Ayush Saroj</h1>
+```text
+                               
+   _________ ___  _________  __
+  / ___/ __ `/ / / / ___/ / / /
+ (__  ) /_/ / /_/ / /__/ /_/ /
+/____/\__,_/\__,_/\___/\__, /
+                      /____/
+```
 
-<h3 align="center">
-AR / VR Developer · Game Developer · Linux Enthusiast · Web Developer
-</h3>
+```bash
+$ whoami
+Ayush
 
-<p align="center">
-Building immersive experiences, exploring systems, and engineering interactive digital worlds
+$ role
+Backend Developer • Game Developer • AI Enthusiast
+
+$ domains
+Backend Engineering
+Game Development
+Artificial Intelligence
+Cloud Computing
+
+$ philosophy
+Creating experiences, one system at a time.
+```
+
+---
+
+# About
+
+I enjoy building software that solves real-world problems through thoughtful engineering.
+
+My work spans backend systems, multiplayer game development, and AI-powered applications. From designing scalable APIs to building immersive gameplay systems, I focus on creating software that is reliable, maintainable, and built to last.
+
+I believe good engineering is often invisible—users remember the experience, not the implementation.
+
+---
+
+# Engineering
+
+```text
+Backend Engineering
+├── REST APIs
+├── Authentication & Authorization
+├── Database Design
+├── Clean Architecture
+└── Scalable Services
+
+Game Development
+├── Unity
+├── Multiplayer Systems
+├── Gameplay Programming
+└── AR Foundation
+
+Artificial Intelligence
+├── TensorFlow
+├── OpenCV
+├── Computer Vision
+└── MediaPipe
+
+Cloud & DevOps
+├── AWS
+├── Docker
+├── Git
+└── CI/CD
+```
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,ts,js" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,mysql" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Game Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" />
+</p>
+
+### AI & Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+### Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-I am a developer focused on **AR/VR, Game Development, Linux systems, and backend web technologies**.
-I enjoy building immersive Unity applications, experimenting with system environments, and understanding how software works internally.
-Also known as **Saucy** online, I like exploring both creative and low-level sides of development — from immersive AR to system internals.
-
-* Hands-on with **Unity, XR Toolkit, and immersive simulations**
-* Developing **3D games, mechanics, and interaction systems**
-* Strong interest in **Linux environments & system troubleshooting**
-* Building **web applications using PHP & MySQL**
-* Exploring **reverse engineering & software internals** (educational)
-
-**Core Focus Areas**
-`AR/VR` · `Game Development` · `Linux` · `Web Development` · `Reverse Engineering`
-
----
-
-## ⚙️ Tech Stack
-
-### 🕶️ AR / VR & Game Development
+# GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,&perline=6" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
 
 <p align="center">
-Unity · C# · AR Foundation · Google AR Core · Animation Systems · Game UI
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"
+  />
 </p>
 
 ---
 
-### 🌐 Web Development
+# Activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql&perline=5" />
-</p>
-
-<p align="center">
-PHP · HTML · CSS · JavaScript · MySQL
-</p>
-
----
-
-### 🐧 Linux & Systems
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu&perline=3" />
-</p>
-
-<p align="center">
-Linux · Bash · System Services · Networking · Troubleshooting
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"
+  />
 </p>
 
 ---
 
-### 🔧 Tools & Software
+# Connect
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&perline=5" />
-</p>
-
-<p align="center">
-Git · GitHub · VS Code · Visual Studio
-</p>
-
----
-
-## 🚀 Selected Work
-
-### AR / VR Application Development
-
-* Built immersive AR object placement applications
-* Developed VR locomotion & interaction systems
-* Worked with XR simulation environments for testing
-* Implemented controller & hand-tracking interactions
-
----
-
-### Unity Game Development
-
-* Designed 3D character controller systems
-* Implemented camera follow & movement mechanics
-* Worked on animation blending & state machines
-* Built physics-based gameplay environments
-
----
-
-### Web Application Development
-
-* Developed dynamic websites using **PHP & MySQL**
-* Built authentication & session systems
-* Integrated backend form handling & database logic
-* Designed responsive front-end layouts
-
----
-
-### Linux Systems & Operations
-
-* Daily Linux usage & environment management
-* System repair & troubleshooting experiments
-* Package & service management
-* Shell scripting & automation basics
-
----
-
-### Reverse Engineering Practice
-
-* Learning memory analysis & debugging workflows
-* Studying software & game internals (educational)
-* Process inspection & structure analysis
-* Understanding compiled binary behavior
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ayushjust94@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/ayushhh.wav">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" />
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-⚙️ Focused on immersive tech, system exploration, and interactive software development
-</p>
+<div align="center">
+
+*"Creating experiences, one system at a time."*
+
+</div>
