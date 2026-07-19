@@ -1,16 +1,17 @@
 <div align="center">
 
 ```text
-                                          __         
+                                          __
    _________ ___  _________  __      ____/ /__ _   __
   / ___/ __ `/ / / / ___/ / / /_____/ __  / _ \ | / /
- (__  ) /_/ / /_/ / /__/ /_/ /_____/ /_/ /  __/ |/ / 
-/____/\__,_/\__,_/\___/\__, /      \__,_/\___/|___/  
-                      /____/                                               
+ (__  ) /_/ / /_/ / /__/ /_/ /_____/ /_/ /  __/ |/ /
+/____/\__,_/\__,_/\___/\__, /      \__,_/\___/|___/
+                      /____/
 ```
 
 ### Backend Engineering • Cloud • Game Development • Artificial Intelligence
 
+*Creating experiences, one system at a time.*
 
 </div>
 
@@ -20,9 +21,9 @@
 
 I'm a Computer Science student passionate about building software that solves real-world problems.
 
-My interests span backend engineering, game development, and artificial intelligence. Whether it's designing scalable backend systems, developing multiplayer gameplay, or building AI-powered applications, I enjoy creating software that is reliable, maintainable, and built with purpose.
+My work spans backend engineering, cloud infrastructure, game development, and artificial intelligence. Whether it's designing scalable APIs, developing multiplayer gameplay systems, or deploying cloud-native applications, I enjoy engineering software that is reliable, maintainable, and built with purpose.
 
-I believe good engineering is often invisible—the user remembers the experience, not the implementation.
+I believe great engineering is often invisible—the user remembers the experience, not the implementation.
 
 ---
 
@@ -34,7 +35,13 @@ Backend Engineering
 ├── Authentication & Authorization
 ├── Database Design
 ├── Clean Architecture
-└── Scalable Services
+└── Distributed Systems
+
+Cloud
+├── AWS
+├── Docker
+├── CI/CD
+└── Cloud-native Applications
 
 Game Development
 ├── Unity
@@ -47,28 +54,42 @@ Artificial Intelligence
 ├── OpenCV
 ├── Computer Vision
 └── MediaPipe
-
-Cloud
-├── AWS
-├── Docker
-├── GitHub Actions
-└── CI/CD
 ```
 
 ---
 
-## Tech Stack
+## Technology Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,ts,js" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### Frameworks & Technologies
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-444444?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs,tailwind,unity,mongodb,mysql,tensorflow,opencv,aws,docker,git,github,postman,vscode" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+
 </p>
 
 ---
@@ -77,48 +98,14 @@ Cloud
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=saucy-dev&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 </p>
 
 ---
 
-## Activity
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saucy-dev&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 
 </p>
