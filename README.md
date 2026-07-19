@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/banner.svg" alt="SAUCY Banner" width="900" />
+  <img src="assets/banner.svg" alt="SAUCY Banner" width="500" />
 </p>
 
 ### Backend Engineering • Cloud • Game Development • Artificial Intelligence
